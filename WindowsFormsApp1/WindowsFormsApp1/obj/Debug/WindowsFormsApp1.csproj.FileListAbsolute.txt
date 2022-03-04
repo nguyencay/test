@@ -7,3 +7,4 @@ E:\Hoc-tap\git\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1
 E:\Hoc-tap\git\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 E:\Hoc-tap\git\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 E:\Hoc-tap\git\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Hoc-tap\git\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
